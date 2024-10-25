@@ -16,6 +16,7 @@
 //   status: 'close',
 // }
 
+
 type Page = {
     title: string,
     likes: number,
